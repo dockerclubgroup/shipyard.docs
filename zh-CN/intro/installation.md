@@ -53,7 +53,7 @@ $ nvm install v1.2.0
 $ npm install bower -g
 ```
 
-# 构建并允许
+# 构建并运行
 ```sh
 $  make all
 $  make testrun
